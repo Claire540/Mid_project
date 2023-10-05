@@ -1,1 +1,15 @@
 https://public.tableau.com/app/profile/claire.oneglia/viz/Consumers_16964971512790/Feuille1?publish=yes
+
+https://public.tableau.com/app/profile/claire.oneglia/viz/Consumers_16964971512790/Actualwaterconsumptioninbillionm3?publish=yes
+
+https://public.tableau.com/app/profile/claire.oneglia/viz/Consumers_16964971512790/Watertakeninbillionm3?publish=yes
+
+https://public.tableau.com/app/profile/claire.oneglia/viz/Consumers_16964971512790/Pollutiontypes?publish=yes
+
+https://public.tableau.com/app/profile/claire.oneglia/viz/Consumers_16964971512790/Basinsactualwaterconsumptioninmillionm3?publish=yes
+
+https://public.tableau.com/app/profile/claire.oneglia/viz/Consumers_16964971512790/Basinstakingsinmillionm3?publish=yes
+
+https://public.tableau.com/app/profile/claire.oneglia/viz/Consumers_16964971512790/Tableaudebord1?publish=yes
+
+https://public.tableau.com/app/profile/claire.oneglia/viz/Consumers_16964971512790/Tableaudebord2?publish=yes
